@@ -1,4 +1,4 @@
-Hydra Build LED Lights
+Hydra Build LEDs
 =
 
 This is a repo containing the setup of the lights on my hydra computer build.
